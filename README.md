@@ -4,7 +4,7 @@
 ## Мои инструменты 👨‍💻	
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) ![С++](https://img.shields.io/badge/-С++-%23ea4f32?logo=git&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-%23e9c241?logo=nim&logoColor=white&style=flat-square)
-![CSharp](https://img.shields.io/badge/-C-Sharp-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![Markdown](https://img.shields.io/badge/-Markdown-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![C](https://img.shields.io/badge/-C-%23e9c241?logo=nim&logoColor=white&style=flat-square)
+![CSharp](https://img.shields.io/badge/-C#-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![Markdown](https://img.shields.io/badge/-Markdown-%23e9c241?logo=nim&logoColor=white&style=flat-square) ![C](https://img.shields.io/badge/-C-%23e9c241?logo=nim&logoColor=white&style=flat-square)
 
 * Использую Python для большинства проектов.
 * Погружение в WEB разработку.
