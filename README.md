@@ -17,7 +17,7 @@
 - <a href="https://www.youtube.com/watch?v=zesqL96WAwg"><img src="https://avatanplus.com/files/resources/original/56be426a8454f152d733702e.png" width=16 height=16 align="center" /> Установка SMSBomber300 v.10.1</a>
 
 ## Мои контакты 💭
-- <a href="https://vk.com/ivan_vzlom300"><img src="https://avatars.mds.yandex.net/get-zen_doc/59126/pub_5a6204545f4967c7b95eb417_5a620474482677a2e6493521/scale_1200" width=16 height=16 align="center" /> Вконтакте</a>
+- <a style="text-decoration: none;" href="https://vk.com/ivan_vzlom300"><img src="https://avatars.mds.yandex.net/get-zen_doc/59126/pub_5a6204545f4967c7b95eb417_5a620474482677a2e6493521/scale_1200" width=16 height=16 align="center" /> Вконтакте</a>
 - <a href="mailto:zajcevivan249gmail.com">📩 E-mail: `zajcevivan249@gmail.com`</a>
 - <a href="https://www.youtube.com/channel/UCTftz8MsYtAE80D9Vrd20rQ?view_as=subscriber"><img src="https://avatanplus.com/files/resources/original/56be426a8454f152d733702e.png" width=16 height=16 align="center" /> YouTube</a>
 - <a href="https://vk.com/hackerpro300"><img src="https://sun9-69.userapi.com/impg/DGbk303Bxa_wyGZpyePMWD8NSWNNN5pRFj1_Ig/vX71IWP3C8s.jpg?size=1000x1000&quality=96&proxy=1&sign=dbde76b6231d590ad9a932d1f94e5795&type=album" width=16 height=16 align="center" /> Сообщество</a>
