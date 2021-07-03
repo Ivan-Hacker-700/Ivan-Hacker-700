@@ -28,4 +28,4 @@
 
 ## Статистика 📊
 <img src="https://gpvc.arturio.dev/Ivan-Zaitse" align="center" width=200 height=30  />
-<img src="https://github-readme-stats.vercel.app/api?username=Ivan-Zaitse&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Ivan-Zaitsev&show_icons=true&count_private=true">
